@@ -26,5 +26,5 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [URL](https://alexpergar.github.io/product_preview_card/)
+- [Solution URL](https://alexpergar.github.io/product_preview_card/)
 

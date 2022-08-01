@@ -26,5 +26,6 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://alexpergar.github.io/product_preview_card/)
+- Solution URL: [Product preview card solution](https://www.frontendmentor.io/solutions/simple-card-with-plain-html-css-ZhH0QcOyb9)
+- Live Site URL: [Product preview card live site](https://alexpergar.github.io/product_preview_card/)
 
